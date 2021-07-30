@@ -1,0 +1,2 @@
+0 : Non-ironic
+1 : Ironic
